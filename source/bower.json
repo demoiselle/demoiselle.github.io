@@ -1,0 +1,24 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular-sanitize": "~1.5.5",
+    "angular-route": "~1.5.5",
+    "angular": "~1.5.5",
+    "angular-bootstrap": "^2.5.0",
+    "angular-markdown-it": "^0.6.1"
+  },
+  "devDependencies": {
+    "angular-i18n": "~1.3.8",
+    "angular-markdown-directive": "^0.3.1"
+  },
+  "overrides": {
+    "angular-i18n": {
+      "main": "angular-locale_pt-br.js"
+    }
+  },
+  "appPath": "app",
+  "resolutions": {
+    "angular": "~1.5.5"
+  }
+}
