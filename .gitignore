@@ -1,0 +1,6 @@
+/source/dist/
+/source/.tmp/
+/source/bower_components/
+/source/nbproject/
+/source/node_modules/
+
